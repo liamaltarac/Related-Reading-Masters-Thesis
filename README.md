@@ -5,7 +5,9 @@
 > [**Orientation Selectivity, Preference, and Continuity in Monkey Striate Cortex**](https://www.jneurosci.org/content/jneuro/12/8/3139.full.pdf)
 
 > [Measuring and interpreting neuronal correlations](http://www.marlenecohen.com/pubs/CohenKohn2011.pdf)
-
+> 
+> [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/doi/full/10.1073/pnas.1403112111)
+>   - Demonstrates similarities between the human/mammalian visual cortex and CNNs
 
 
 
@@ -16,7 +18,7 @@
 >    
 > [**Interpretation of ResNet by Visualization of Preferred Stimulus in Receptive Field**](https://arxiv.org/pdf/2006.01645.pdf)
 >   - Analysis of learned kernels in Resnet.
->   - Mentions **oreinetaiton selective** and **color neurons**
+>   - Mentions **orientation selective** and **color neurons**
 >   - Uses activation maximization to visualise **prefered stimuli**
 >   - Lacks analysis of deeper layers
 

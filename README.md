@@ -17,6 +17,7 @@
 > [**Interpretation of ResNet by Visualization of Preferred Stimulus in Receptive Field**](https://arxiv.org/pdf/2006.01645.pdf)
 >   - Analysis of learned kernels in Resnet.
 >   - Mentions **oreinetaiton selective** and **color neurons**
+>   - Uses activation maximization to visualise **prefered stimuli**
 >   - Lacks analysis of deeper layers
 
 

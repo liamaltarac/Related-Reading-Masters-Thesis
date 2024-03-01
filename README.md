@@ -26,4 +26,5 @@
 
 ## Initialization 
 
->
+>https://proceedings.mlr.press/v70/balduzzi17b/balduzzi17b.pdf
+>https://papers.nips.cc/paper_files/paper/2019/file/876e8108f87eb61877c6263228b67256-Paper.pdf

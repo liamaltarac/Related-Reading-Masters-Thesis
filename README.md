@@ -16,7 +16,7 @@
 > [**How does Weight Correlation Affect the Generalisation Ability of Deep Neural Networks?**](https://proceedings.neurips.cc/paper/2020/file/f48c04ffab49ff0e5d1176244fdfb65c-Paper.pdf)
 >  - [Reviews](https://proceedings.neurips.cc/paper/2020/file/f48c04ffab49ff0e5d1176244fdfb65c-Review.html)
 >    
-> [**Interpretation of ResNet by Visualization of Preferred Stimulus in Receptive Field**](https://arxiv.org/pdf/2006.01645.pdf)
+> [**Interpretation of ResNet by Visualization of Preferred Stimulus in Receptive Field**](https://arxiv.org/abs/2006.01645.pdf)
 >   - Analysis of learned kernels in Resnet.
 >   - Mentions **orientation selective** and **color neurons**
 >   - Uses activation maximization to visualise **prefered stimuli**
@@ -26,6 +26,8 @@
 
 ## Initialization 
 
+> [**ZerO Initialization: Initializing Neural Networks with only Zeros and Ones**](https://arxiv.org/abs/2110.12661)
+>
 > [**The Shattered Gradients Problem: If resnets are the answer, then what is the question?**](https://proceedings.mlr.press/v70/balduzzi17b/balduzzi17b.pdf)
 > 
 > [**MetaInit: Initializing learning by learning to initialize**](https://papers.nips.cc/paper_files/paper/2019/file/876e8108f87eb61877c6263228b67256-Paper.pdf)

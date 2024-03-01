@@ -28,6 +28,7 @@
 
 > [**ZerO Initialization: Initializing Neural Networks with only Zeros and Ones**](https://arxiv.org/abs/2110.12661)
 >  - [Reviews](https://openreview.net/forum?id=1AxQpKmiTc)
+>    
 > [**The Shattered Gradients Problem: If resnets are the answer, then what is the question?**](https://proceedings.mlr.press/v70/balduzzi17b/balduzzi17b.pdf)
 > 
 > [**MetaInit: Initializing learning by learning to initialize**](https://papers.nips.cc/paper_files/paper/2019/file/876e8108f87eb61877c6263228b67256-Paper.pdf)

@@ -8,6 +8,10 @@
 > 
 > [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/doi/full/10.1073/pnas.1403112111)
 >   - Demonstrates similarities between the human/mammalian visual cortex and CNNs
+>
+>  [Edges are the 'Independent Components' of Natural Scenes. ](https://papers.nips.cc/paper_files/paper/1996/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
+>   - Compares the edge selective neurons ("receptive fields of simple cells in visual cortex") in the mammalian (cats and monkeys) visual  cortex to the dominant features/components found in natural images.
+>   -  
 
 
 

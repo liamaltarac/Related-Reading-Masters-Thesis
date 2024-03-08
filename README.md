@@ -10,8 +10,8 @@
 >   - Demonstrates similarities between the human/mammalian visual cortex and CNNs
 >
 >  [Edges are the 'Independent Components' of Natural Scenes. ](https://papers.nips.cc/paper_files/paper/1996/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
->   - Compares the edge selective neurons ("receptive fields of simple cells in visual cortex") in the mammalian (cats and monkeys) visual  cortex to the dominant features/components found in natural images.
->   -  
+>   - Describes the edge selective neurons ("receptive fields of simple cells in visual cortex") in the mammalian (cats and monkeys) visual cortex, and how their importance in capturing the dominant features/components found in natural images.
+>   - Applies Non-Linear Infomax on multiple natural images to generate image filters that are oriented,  resembling Gabor Filters. 
 
 
 

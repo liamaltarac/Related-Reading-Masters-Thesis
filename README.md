@@ -11,8 +11,9 @@
 >
 >  [Edges are the 'Independent Components' of Natural Scenes. ](https://papers.nips.cc/paper_files/paper/1996/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
 >   - Describes the edge selective neurons ("receptive fields of simple cells in visual cortex") in the mammalian (cats and monkeys) visual cortex, and how their importance in capturing the dominant features/components found in natural images.
->   - Applies Non-Linear Infomax on multiple natural images to generate image filters that are oriented,  resembling Gabor Filters. 
-
+>   - Applies Non-Linear Infomax on multiple natural images to generate image filters that are oriented,  resembling Gabor Filters.
+>
+>  [Correlation-Based Models of Neural Development (From **Neuroscience and Connectionist Theory**)](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203762981-7/correlation-based-models-neural-development-kenneth-miller)
 
 
 ## ML

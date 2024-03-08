@@ -14,6 +14,8 @@
 >   - Applies Non-Linear Infomax on multiple natural images to generate image filters that are oriented,  resembling Gabor Filters.
 >
 >  [Correlation-Based Models of Neural Development (From **Neuroscience and Connectionist Theory**)](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203762981-7/correlation-based-models-neural-development-kenneth-miller)
+>
+>  [Non Linear Neurons in the Low Noise Limit: A Factorial Code Maximizes Information Transfer](https://www.researchgate.net/publication/2429553_Non_Linear_Neurons_in_the_Low_Noise_Limit_A_Factorial_Code_Maximizes_Information_Transfer)
 
 
 ## ML

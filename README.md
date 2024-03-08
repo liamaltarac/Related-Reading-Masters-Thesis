@@ -1,6 +1,6 @@
 # Readings 
 
-## Neuroscience
+## Neuroscience / Biology inspired ML
 
 > [**Orientation Selectivity, Preference, and Continuity in Monkey Striate Cortex**](https://www.jneurosci.org/content/jneuro/12/8/3139.full.pdf)
 

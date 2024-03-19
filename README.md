@@ -16,7 +16,8 @@
 >  [Correlation-Based Models of Neural Development (From **Neuroscience and Connectionist Theory**)](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203762981-7/correlation-based-models-neural-development-kenneth-miller)
 >
 >  [Non Linear Neurons in the Low Noise Limit: A Factorial Code Maximizes Information Transfer](https://www.researchgate.net/publication/2429553_Non_Linear_Neurons_in_the_Low_Noise_Limit_A_Factorial_Code_Maximizes_Information_Transfer)
-
+>
+> 
 
 ## ML
 
@@ -29,7 +30,11 @@
 >   - Uses activation maximization to visualise **prefered stimuli**
 >   - Lacks analysis of deeper layers
 >
-> [**Understanding intermediate layers using linear classifier probes**](https://arxiv.org/pdf/1610.01644.pdf)
+> [**Understanding intermediate layers using linear classifier probes**](https://arxiv.org/abs/1610.01644.pdf)
+>
+> [**SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**](https://arxiv.org/abs/1706.05806)
+>
+> [**Convergent Learning: Do different neural networks learn the same representations?**](https://arxiv.org/abs/1511.07543)
 
 
 ## Initialization 

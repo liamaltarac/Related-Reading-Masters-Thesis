@@ -28,7 +28,8 @@
 >   - Mentions **orientation selective** and **color neurons**
 >   - Uses activation maximization to visualise **prefered stimuli**
 >   - Lacks analysis of deeper layers
-
+>
+> [** Understanding intermediate layers using linear classifier probes**](https://arxiv.org/pdf/1610.01644.pdf)
 
 
 ## Initialization 
@@ -41,4 +42,4 @@
 > [**MetaInit: Initializing learning by learning to initialize**](https://papers.nips.cc/paper_files/paper/2019/file/876e8108f87eb61877c6263228b67256-Paper.pdf)
 >
 > [**Beyond Signal Propagation: Is Feature Diversity Necessary in Deep Neural Network Initialization?**](https://arxiv.org/abs/2007.01038)
->   
+

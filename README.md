@@ -29,7 +29,7 @@
 >   - Uses activation maximization to visualise **prefered stimuli**
 >   - Lacks analysis of deeper layers
 >
-> [** Understanding intermediate layers using linear classifier probes**](https://arxiv.org/pdf/1610.01644.pdf)
+> [**Understanding intermediate layers using linear classifier probes**](https://arxiv.org/pdf/1610.01644.pdf)
 
 
 ## Initialization 

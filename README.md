@@ -37,6 +37,8 @@
 > [**Convergent Learning: Do different neural networks learn the same representations?**](https://arxiv.org/abs/1511.07543)
 >
 > [**Pruning Filters for Efficient ConvNets**](https://arxiv.org/abs/1608.08710)
+>   - Uses $l_2$-norm as a metric to determine which filters to prune
+>   - (Figure 2c) Demontrastes for VGG16 that removing 90% of the lowest magnitude filters in all layers doesn't severely harm accuracy (after retraining only 20 epochs) 
 
 
 ## Initialization 

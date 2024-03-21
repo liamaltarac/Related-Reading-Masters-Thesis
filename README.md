@@ -35,6 +35,8 @@
 > [**SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**](https://arxiv.org/abs/1706.05806)
 >
 > [**Convergent Learning: Do different neural networks learn the same representations?**](https://arxiv.org/abs/1511.07543)
+>
+> [**Pruning Filters for Efficient ConvNets**](https://arxiv.org/abs/1608.08710)
 
 
 ## Initialization 

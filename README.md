@@ -40,7 +40,7 @@
 >   - Uses $l_2$-norm as a metric to determine which filters to prune
 >   - (Figure 2c) Demontrastes for VGG16 that removing 90% of the lowest magnitude filters in all layers doesn't severely harm accuracy (after retraining only 20 epochs)
 >
-> [** Learning a smooth kernel regularizer for convolutional neural networks **](https://cims.nyu.edu/~brenden/papers/FeinmanLake2019CogSci.pdf)
+> [**Learning a smooth kernel regularizer for convolutional neural networks**](https://cims.nyu.edu/~brenden/papers/FeinmanLake2019CogSci.pdf)
 >   - Proposes a regularizer that encourages correlation in weights
 >   - Links to biological papers [Geisler et al 2001](https://pubmed.ncbi.nlm.nih.gov/11248261/) which discuss the importance of correlation (correlated receptive fields) especially for contour perception.
 >   - 

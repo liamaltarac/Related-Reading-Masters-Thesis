@@ -44,8 +44,10 @@
 >   - Proposes a regularizer that encourages correlation in weights
 >   - Links to biological papers [Geisler et al 2001](https://pubmed.ncbi.nlm.nih.gov/11248261/) which discuss the importance of correlation (correlated receptive fields) especially for contour perception.
 >   - 
->   -  
-
+> [** Explicit Inductive Bias for Transfer Learning with Convolutional Networks **](https://arxiv.org/pdf/1802.01483)
+>   - Proposes using regularizer (L2_Starting_Point) to preserve learned features in Fine learning
+>   - Better than L2 which causes catastrophic forgetting in fine-tuning.
+> 
 
 ## Initialization 
 

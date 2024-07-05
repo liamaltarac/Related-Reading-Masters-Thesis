@@ -18,6 +18,8 @@
 >  [Non Linear Neurons in the Low Noise Limit: A Factorial Code Maximizes Information Transfer](https://www.researchgate.net/publication/2429553_Non_Linear_Neurons_in_the_Low_Noise_Limit_A_Factorial_Code_Maximizes_Information_Transfer)
 >
 >  [Edge co-occurrence in natural images predicts contour grouping performance (Geisler et al. 2001)](https://pubmed.ncbi.nlm.nih.gov/11248261/)
+>
+>  [Retinal bipolar cells: elementary building blocks of vision](https://www.nature.com/articles/nrn3783#Abs)
 
 ## ML
 

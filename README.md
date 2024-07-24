@@ -52,6 +52,9 @@
 >   - Better than L2 which causes catastrophic forgetting in fine-tuning.
 >
 > [**What do CNNs Learn in the First Layer and Why? A Linear Systems Perspective**](https://proceedings.mlr.press/v202/chowers23a/chowers23a.pdf)
+>   -
+> [**Similarity of Neural Network Representations Revisited**](https://arxiv.org/pdf/1905.00414)
+>   
 ## Initialization 
 
 > [**ZerO Initialization: Initializing Neural Networks with only Zeros and Ones**](https://arxiv.org/abs/2110.12661)

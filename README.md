@@ -54,6 +54,8 @@
 > [**What do CNNs Learn in the First Layer and Why? A Linear Systems Perspective**](https://proceedings.mlr.press/v202/chowers23a/chowers23a.pdf)
 >   
 > [**Similarity of Neural Network Representations Revisited**](https://arxiv.org/pdf/1905.00414)
+> 
+> https://proceedings.mlr.press/v161/garriga-alonso21a/garriga-alonso21a.pdf
 >   
 ## Initialization 
 

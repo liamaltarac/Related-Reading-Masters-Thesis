@@ -39,6 +39,7 @@
 > [**Understanding intermediate layers using linear classifier probes**](https://arxiv.org/abs/1610.01644.pdf)
 >
 > [**SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability**](https://arxiv.org/abs/1706.05806)
+>   - Are CNNs trained bottom-up or top-down ?
 >
 > [**Convergent Learning: Do different neural networks learn the same representations?**](https://arxiv.org/abs/1511.07543)
 >

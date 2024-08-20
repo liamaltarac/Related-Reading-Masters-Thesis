@@ -63,7 +63,9 @@
 > [**Similarity of Neural Network Representations Revisited**](https://arxiv.org/pdf/1905.00414)
 > 
 > https://proceedings.mlr.press/v161/garriga-alonso21a/garriga-alonso21a.pdf
->   
+> 
+> [Understanding Deep Convolutional Networks (Mallat S)](https://math.gmu.edu/seminars/NDA/mallat.pdf)
+>     
 ## Initialization 
 
 > [**ZerO Initialization: Initializing Neural Networks with only Zeros and Ones**](https://arxiv.org/abs/2110.12661)

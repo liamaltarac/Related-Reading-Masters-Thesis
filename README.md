@@ -24,6 +24,9 @@
 >  [Using artificial neural networks to ask ‘why’ questions of minds and brains](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(22)00262-4)
 >
 >  https://proceedings.neurips.cc/paper_files/paper/2019/file/6e7d5d259be7bf56ed79029c4e621f44-Paper.pdf
+>
+>  [Statistics and geometry of orientation selectivity in primary visual cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228171/)
+>   - Are mamals born with orrientation selective neurons, or are they formed through learning (experience) ?
 
 ## ML
 
